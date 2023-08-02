@@ -1,0 +1,652 @@
+[
+  {
+    "Item": 1,
+    "Description": "Painting house on Baring,  Pete jogging ",
+    "Artist": "Phyllis",
+    "Dimensions": "31\"W x 25\"H",
+    "Image": 4248,
+    "File": "Item 1. Painting of house on Baring Pete jogging.webp",
+    "Width": 1908,
+    "Height": 1610
+  },
+  {
+    "Item": 2,
+    "Description": "Waterfront in Charlotte Amalie, St. Thomas",
+    "Artist": "Titi Becaud",
+    "Dimensions": "16 3/4\"W x 13 3/4\"H",
+    "Image": 4249,
+    "File": "Item 2.  Waterfront in Charlotte Amalie St Thomas.webp",
+    "Width": 1836,
+    "Height": 1536
+  },
+  {
+    "Item": 3,
+    "Description": "4 picture print ",
+    "Artist": "Omer Seamon ??",
+    "Dimensions": "9 3/4\"W x 22 1/2\"H",
+    "Image": 4250,
+    "File": "Item 3. 4-Picture Print by Omer Seamon.webp",
+    "Width": 1356,
+    "Height": 2704
+  },
+  {
+    "Item": 4,
+    "Description": "Whimsical musician painting ",
+    "Artist": "Obican",
+    "Dimensions": "11\"W x 9\"H",
+    "Image": 4300,
+    "File": "Item 4. Whimsical Musician by Obican.webp",
+    "Width": 2208,
+    "Height": 1862
+  },
+  {
+    "Item": 5,
+    "Description": "Butterfly collage ",
+    "Artist": "Laura Mason",
+    "Dimensions": "13 1/4\"W x 16 1/4\"H",
+    "Image": 4252,
+    "File": "Item 5. Painting Butterfly Collage by Laura Mason.webp",
+    "Width": 1948,
+    "Height": 2352
+  },
+  {
+    "Item": 6,
+    "Description": "Stained glass window hanging ",
+    "Artist": "Phyllis",
+    "Dimensions": "19\"W x 49 3/4\"H",
+    "Image": 4301,
+    "File": "Item 6. Stained Glass Window by Phyllis.webp",
+    "Width": 1244,
+    "Height": 2280
+  },
+  {
+    "Item": 7,
+    "Description": "Painted flowers ",
+    "Artist": "Phyllis",
+    "Dimensions": "34\"W x 28 3/4\"H",
+    "Image": 4255,
+    "File": "Item 7. Painted flowers by Phyllis.webp",
+    "Width": 1860,
+    "Height": 1676
+  },
+  {
+    "Item": 8,
+    "Description": "English cottage oil painting ",
+    "Artist": "Maybe Phyllis??",
+    "Dimensions": "29 3/4\"W x 25\"H",
+    "Image": 4256,
+    "File": "Item 8. English Cottage oil Painting by Phyllis.webp",
+    "Width": 1962,
+    "Height": 1808
+  },
+  {
+    "Item": 9,
+    "Description": "Pink peonies oil painting ",
+    "Artist": "Phyllis",
+    "Dimensions": "29 1/2\"W x 35 1/2\"H",
+    "Image": 4257,
+    "File": "Item 9. Pink Peonies Oil Painting by Phyllis.webp",
+    "Width": 1764,
+    "Height": 2200
+  },
+  {
+    "Item": 10,
+    "Description": "Stained Glass Lilies #1 ",
+    "Artist": "Phyllis",
+    "Dimensions": "18 1/2\"W x 32 1/2\"H",
+    "Image": 4259,
+    "File": "Item 10. Stained Glass Lilies 1 by Phyllis.webp",
+    "Width": 1740,
+    "Height": 2880
+  },
+  {
+    "Item": 11,
+    "Description": "Stained Glass lilies #2 ",
+    "Artist": "Phyllis",
+    "Dimensions": "18 1/2\"W x 32 1/2\"H",
+    "Image": 4260,
+    "File": "Item 11 Stained Glass Lilies 2 by Phyllis.webp",
+    "Width": 1884,
+    "Height": 2760
+  },
+  {
+    "Item": 12,
+    "Description": "Painting of Italy coast ",
+    "Artist": "Phyllis",
+    "Dimensions": "28\"W x 33 3/4\"H",
+    "Image": 4261,
+    "File": "Item 12. Painting of Italy Coast by Phyllis.webp",
+    "Width": 1692,
+    "Height": 2088
+  },
+  {
+    "Item": 13,
+    "Description": "3 green vases set",
+    "Artist": "None",
+    "Dimensions": "",
+    "Image": 4262,
+    "File": "Item 13. 3 Green Vases (set).webp",
+    "Width": 1290,
+    "Height": 1712
+  },
+  {
+    "Item": 14,
+    "Description": "Oil painting of boats in a harbor ",
+    "Artist": "Phyllis",
+    "Dimensions": "28\"W x 34\"H",
+    "Image": 4302,
+    "File": "Item 14. Oil Painting of Boats in Harbor by Phyllis copy.webp",
+    "Width": 2012,
+    "Height": 2456
+  },
+  {
+    "Item": 15,
+    "Description": "Flowers in vase  chalk or pastels??painting ",
+    "Artist": "Phyllis",
+    "Dimensions": "22 1/4\"W x 26 3/4\"H",
+    "Image": 4264,
+    "File": "Item 15. Flowers in Vase Painting by Phyllis.webp",
+    "Width": 1796,
+    "Height": 2272
+  },
+  {
+    "Item": 16,
+    "Description": "Oil painting of mountains and water ",
+    "Artist": "Phyllis",
+    "Dimensions": "46 1/2\"W x 36 1/2\"H",
+    "Image": 4303,
+    "File": "Item 16. Oil Paining of Mountains and water by Phyllis.webp",
+    "Width": 2520,
+    "Height": 2012
+  },
+  {
+    "Item": 17,
+    "Description": "Oil painting with sailboats ",
+    "Artist": "Maybe Phyllis ?? ",
+    "Dimensions": "26 3/4\"W x 20 3/4\"H",
+    "Image": 4304,
+    "File": "Item 17. Oil Painting with Sailboats by Phyllis (maybe).webp",
+    "Width": 2292,
+    "Height": 1766
+  },
+  {
+    "Item": 18,
+    "Description": "Sony flat screen TV 50\" diagonal ",
+    "Artist": "None",
+    "Dimensions": "",
+    "Image": 4269,
+    "File": "Item 18. Sony 50  Inch Diagonal Flat Screet TV.webp",
+    "Width": 2874,
+    "Height": 2012
+  },
+  {
+    "Item": 19,
+    "Description": "Painting of boats in a harbor ",
+    "Artist": "Miller Salem",
+    "Dimensions": "27 3/4\"W x 17 1/2\"H",
+    "Image": 4306,
+    "File": "Item 19. Painting of Boat in a Harbor by Miller Salem.webp",
+    "Width": 2694,
+    "Height": 1820
+  },
+  {
+    "Item": 20,
+    "Description": "Metal and glass vase ",
+    "Artist": "None",
+    "Dimensions": "15\" H",
+    "Image": 4273,
+    "File": "Item 20. Metal and Glass Abstract Vase.webp",
+    "Width": 1416,
+    "Height": 1658
+  },
+  {
+    "Item": 21,
+    "Description": "Dark green oriental floral vase ",
+    "Artist": "None",
+    "Dimensions": "17\"H",
+    "Image": 4276,
+    "File": "Item 21. Dark Green Oriental Floral Vase 17 Inches Tall.webp",
+    "Width": 1468,
+    "Height": 3024
+  },
+  {
+    "Item": 22,
+    "Description": "Round green and yellow flowered vase ",
+    "Artist": "None",
+    "Dimensions": "6\" H",
+    "Image": 4279,
+    "File": "Item 22. Round Green and Yellow Flowered Vase.webp",
+    "Width": 1780,
+    "Height": 1816
+  },
+  {
+    "Item": 23,
+    "Description": "Asian girls in a rice patty painting ",
+    "Artist": "Trasarn",
+    "Dimensions": "19 3/4\"W x 27\"H",
+    "Image": 4307,
+    "File": "Item 23. Asian Girls in Rice Patty Print by Trasarn.webp",
+    "Width": 1884,
+    "Height": 2568
+  },
+  {
+    "Item": 24,
+    "Description": "Framed photo of 2 row boats ",
+    "Artist": "None",
+    "Dimensions": "12\"W x 15\"H",
+    "Image": 4286,
+    "File": "Item 24. Framed Photo of 2 Row Boats.webp",
+    "Width": 1958,
+    "Height": 2431
+  },
+  {
+    "Item": 25,
+    "Description": "Ferrini stained glass ",
+    "Artist": "Phyllis ",
+    "Dimensions": "16 1/4\"W x 7 3/4\"H",
+    "Image": 4288,
+    "File": "Item 25. Ferrini Stained Glass by Phyllis.webp",
+    "Width": 2280,
+    "Height": 1251
+  },
+  {
+    "Item": 26,
+    "Description": "Water color boats in harbor painting ",
+    "Artist": "Maybe Phyllis??",
+    "Dimensions": "34\"W x 27\"H",
+    "Image": 4289,
+    "File": "Item 26. Water Color Boats in Harbor by Phyllis (maybe).webp",
+    "Width": 2304,
+    "Height": 2012
+  },
+  {
+    "Item": 27,
+    "Description": "Stained glass hanging light fixture ",
+    "Artist": "Maybe Phyllis ??",
+    "Dimensions": "18\" diameter x 14\"H",
+    "Image": 4291,
+    "File": "Item 27. Stained Glass Hanging Light Fixture by Phyllis (maybe).webp",
+    "Width": 2148,
+    "Height": 1784
+  },
+  {
+    "Item": 28,
+    "Description": "Oil painting of garden on Baring St. ",
+    "Artist": "Phyllis",
+    "Dimensions": "32\"W x 26 1/2\"H",
+    "Image": 4296,
+    "File": "Item 28. Oil Painting of Garden on Baring by Phyllis.webp",
+    "Width": 2064,
+    "Height": 1820
+  },
+  {
+    "Item": 29,
+    "Description": "Paper mache hanging clowns  ",
+    "Artist": "Phyllis",
+    "Dimensions": "",
+    "Image": 4297,
+    "File": "Item 29. Paper Mache Hanging Clowns by Phyllis (set of 4).webp",
+    "Width": 3024,
+    "Height": 2012
+  },
+  {
+    "Item": 30,
+    "Description": "Chicago river photo ",
+    "Artist": "DHD 1995",
+    "Dimensions": "15\"W x 18\"H",
+    "Image": 4299,
+    "File": "Item 30. Chicago River Photo by DHD 1995.webp",
+    "Width": 2012,
+    "Height": 2464
+  },
+  {
+    "Item": 31,
+    "Description": "Metal glass shelf misc. items ",
+    "Artist": "None",
+    "Dimensions": "5 ft tall",
+    "Image": 4310,
+    "File": "Item 31. Misc. Knick Knacks.webp",
+    "Width": 1036,
+    "Height": 3024
+  },
+  {
+    "Item": 32,
+    "Description": "Oil painting flowers in a basket ",
+    "Artist": "Phyllis",
+    "Dimensions": "35 1/2\"W x 29 1/2\"H",
+    "Image": 4312,
+    "File": "Item 32. Oil Painting Flowers in Basket by Phyllis.webp",
+    "Width": 1986,
+    "Height": 1766
+  },
+  {
+    "Item": 33,
+    "Description": "Oil painting country side ",
+    "Artist": "Maybe Phyllis ??",
+    "Dimensions": "34 1/4\"W x 28 1/2\" H",
+    "Image": 4313,
+    "File": "Item 33.  Oil Painting, Country side by Phyllis (maybe).webp",
+    "Width": 2136,
+    "Height": 1850
+  },
+  {
+    "Item": 34,
+    "Description": "Ebony lacquer upright piano w/ bench ",
+    "Artist": "Kohler&Campbell",
+    "Dimensions": "",
+    "Image": 4314,
+    "File": "Item 34. Ebony lacquer Upright Piano & Bench Kohler and Campbell.webp",
+    "Width": 2616,
+    "Height": 2012
+  },
+  {
+    "Item": 35,
+    "Description": "Stained glass floor lamp ",
+    "Artist": "None",
+    "Dimensions": "5'10\" tall",
+    "Image": 4315,
+    "File": "Item 35. Stained Glass Floor Lamp by Phyllis (maybe).webp",
+    "Width": 820,
+    "Height": 2776
+  },
+  {
+    "Item": 36,
+    "Description": "Stained glass floor lamp ",
+    "Artist": "Phyllis",
+    "Dimensions": "5'8\" tall",
+    "Image": 4316,
+    "File": "Item 36. Stained Glass Floor Lamp by Phyllis.webp",
+    "Width": 1324,
+    "Height": 2920
+  },
+  {
+    "Item": 37,
+    "Description": "Painting of flowers ",
+    "Artist": "Phyllis",
+    "Dimensions": "20 1/4\"W x 19 3/4\"H",
+    "Image": 4317,
+    "File": "Item 37. Painting of FLowers by Phyllis.webp",
+    "Width": 1668,
+    "Height": 1700
+  },
+  {
+    "Item": 38,
+    "Description": "Painting of coffee table, flowers,  vase ",
+    "Artist": "Maybe Phyllis??",
+    "Dimensions": "28 1/4\"W x 25 1/4\"H",
+    "Image": 4318,
+    "File": "Item 38. Painting of Coffee table flowers vase by Phyllis (maybe).webp",
+    "Width": 2310,
+    "Height": 1982
+  },
+  {
+    "Item": 39,
+    "Description": "Painting of seashells ",
+    "Artist": "Phyllis",
+    "Dimensions": "30 1/4W\" x 23 1/2\"H",
+    "Image": 4319,
+    "File": "Item 39. Painting of Seashells by Phyllis.webp",
+    "Width": 2424,
+    "Height": 1916
+  },
+  {
+    "Item": 40,
+    "Description": "Stained glass window #1 hanging front entry ",
+    "Artist": "Phyllis",
+    "Dimensions": "25 3/4\"W x 25 3/4\"H",
+    "Image": 4320,
+    "File": "Item 40. Stained Glass Window 1 Front Entry by Phyllis.webp",
+    "Width": 2274,
+    "Height": 2012
+  },
+  {
+    "Item": 41,
+    "Description": "Stained glass window #2 hanging front entry",
+    "Artist": "Phyllis",
+    "Dimensions": "25 3/4\"W x 25 3/4\"H",
+    "Image": 4321,
+    "File": "Item 41. Stained Glass Window 2 Front Entry by Phyllis.webp",
+    "Width": 1950,
+    "Height": 2012
+  },
+  {
+    "Item": 42,
+    "Description": "Framed ceramic village wall hanging ",
+    "Artist": "None",
+    "Dimensions": "18 3/4\"W x 18 3/4\"H",
+    "Image": 4322,
+    "File": "Item 42. Framed 3D Ceramic Village.webp",
+    "Width": 1920,
+    "Height": 1880
+  },
+  {
+    "Item": 43,
+    "Description": "Larger whimsical musician painting ",
+    "Artist": "Obican",
+    "Dimensions": "17 1/2\"W x 23 1/2\"H",
+    "Image": 4326,
+    "File": "Item 43. Larger Whimsical Musician Painting by Obican.webp",
+    "Width": 1788,
+    "Height": 2600
+  },
+  {
+    "Item": 44,
+    "Description": "Mirror with metal accents chest ",
+    "Artist": "None",
+    "Dimensions": "",
+    "Image": 4327,
+    "File": "Item 44. Mirror with Metal Accent Chest.webp",
+    "Width": 1552,
+    "Height": 2776
+  },
+  {
+    "Item": 45,
+    "Description": "Squirrel in a tree framed print ",
+    "Artist": "Cindy Colley",
+    "Dimensions": "26 1/4\"W x 19 1/2\"H",
+    "Image": 4329,
+    "File": "Item 45. Squirrel in a Tree Print by Cindy Colley.webp",
+    "Width": 2268,
+    "Height": 1748
+  },
+  {
+    "Item": 46,
+    "Description": "Watercolor painting of plants in pots ",
+    "Artist": "Maybe Phyllis??",
+    "Dimensions": "22 1/4\"W x 26 1/4\"H",
+    "Image": 4330,
+    "File": "Item 46. Watercolor Painting of plants in Pots by Phyllis (maybe).webp",
+    "Width": 1916,
+    "Height": 2360
+  },
+  {
+    "Item": 47,
+    "Description": "Oil painting of Jesus ",
+    "Artist": "Phyllis",
+    "Dimensions": "14 1/4\"W x 18 1/4\"H",
+    "Image": 4331,
+    "File": "Item 47. Oil Painting of Jesus by Phyllis.webp",
+    "Width": 1836,
+    "Height": 2440
+  },
+  {
+    "Item": 48,
+    "Description": "Oil painting of 3 girls & teddy bears ",
+    "Artist": "Phyllis",
+    "Dimensions": "38\"W x 32\"H",
+    "Image": 4332,
+    "File": "Item 48 Oil Painting of 3 girls by Phyllis.webp",
+    "Width": 2292,
+    "Height": 1934
+  },
+  {
+    "Item": 49,
+    "Description": "Painting of fishing village w/boats in water ",
+    "Artist": "Phyllis",
+    "Dimensions": "39 1/4\"W x 27\"H",
+    "Image": 4333,
+    "File": "Item 49. Painting of Fishing Village by Phyllis.webp",
+    "Width": 2760,
+    "Height": 1964
+  },
+  {
+    "Item": 50,
+    "Description": "Framed print of a train station ",
+    "Artist": "Omer Seamon",
+    "Dimensions": "31\"W  x 25\"H",
+    "Image": 4334,
+    "File": "Item 50. Framed Print , Train Station by Omer Seamon.webp",
+    "Width": 2220,
+    "Height": 1898
+  },
+  {
+    "Item": 51,
+    "Description": "Metal & glass couch table w/ misc. items ",
+    "Artist": "None",
+    "Dimensions": "48\"W x 16\"D x 28 1/4H",
+    "Image": 4282,
+    "File": "Item 51. Metal & Glass couch table with Misc Items.webp",
+    "Width": 2526,
+    "Height": 1988
+  },
+  {
+    "Item": 52,
+    "Description": "Yellow/blue painted table, metal bird ",
+    "Artist": "None",
+    "Dimensions": "32\"W x 11\"D x 30 1/4\"H",
+    "Image": 4290,
+    "File": "Item 52. Painted table and steel bird.webp",
+    "Width": 2226,
+    "Height": 1658
+  },
+  {
+    "Item": 53,
+    "Description": "White metal bakers rack w misc. items ",
+    "Artist": "None",
+    "Dimensions": "",
+    "Image": 4294,
+    "File": "Item 53. White Metal Bakers Rack & Misc. items.webp",
+    "Width": 1828,
+    "Height": 3136
+  },
+  {
+    "Item": 54,
+    "Description": "Dark oak kitchen table w/ 4 covered chairs ",
+    "Artist": "None",
+    "Dimensions": "48\" round w/ 2 leaf's",
+    "Image": 4293,
+    "File": "Item 54. Dark Oak Kitchen table set.webp",
+    "Width": 2850,
+    "Height": 1688
+  },
+  {
+    "Item": 55,
+    "Description": "Small side table with wheat  pattern",
+    "Artist": "None",
+    "Dimensions": "17 1/2\" x 13\" oval shaped",
+    "Image": 4251,
+    "File": "Item 55. Small side table with Wheat inlay pattern.webp",
+    "Width": 2012,
+    "Height": 2376
+  },
+  {
+    "Item": 56,
+    "Description": "Painted brass colored lamp ",
+    "Artist": "None",
+    "Dimensions": "26 1/2: height",
+    "Image": 4253,
+    "File": "Item 56. Painted Brass colered lamp.webp",
+    "Width": 1252,
+    "Height": 2832
+  },
+  {
+    "Item": 57,
+    "Description": "Wooden side table ",
+    "Artist": "None",
+    "Dimensions": "30\"W x 22\"D x 29 1/2\"H",
+    "Image": 4263,
+    "File": "Item 57. Wooden Side Table.webp",
+    "Width": 2028,
+    "Height": 1976
+  },
+  {
+    "Item": 58,
+    "Description": "Dark wood end table (set of 2)",
+    "Artist": "None",
+    "Dimensions": "22\"W x 26\"D x 24 1/2\"H",
+    "Image": 4265,
+    "File": "Item 58. Dark Wood End Tables.webp",
+    "Width": 1980,
+    "Height": 2640
+  },
+  {
+    "Item": 59,
+    "Description": "Dark wood coffee table ",
+    "Artist": "None",
+    "Dimensions": "48\"W x30\"D x 16 1/4\"H",
+    "Image": 4266,
+    "File": "Item 59. Dark wood coffee table.webp",
+    "Width": 2964,
+    "Height": 1520
+  },
+  {
+    "Item": 60,
+    "Description": "3 shelf black acrylic TV stand ",
+    "Artist": "None",
+    "Dimensions": "",
+    "Image": 4271,
+    "File": "Item 60. TV Stand.webp",
+    "Width": 3024,
+    "Height": 2012
+  },
+  {
+    "Item": 61,
+    "Description": "Dining room table / China cabinet ",
+    "Artist": "None",
+    "Dimensions": "44\" round with extension leaf's",
+    "Image": 4308,
+    "File": "Item 61. Dining room table and china cabinet.webp",
+    "Width": 2012,
+    "Height": 3032
+  },
+  {
+    "Item": 62,
+    "Description": "2 matching brass lamps ",
+    "Artist": "None",
+    "Dimensions": "31\" H",
+    "Image": 4281,
+    "File": "Item 62. Brass Lamps (Set of 2).webp",
+    "Width": 1636,
+    "Height": 3024
+  },
+  {
+    "Item": 63,
+    "Description": "Metal candle stick holder ",
+    "Artist": "None",
+    "Dimensions": "5 foot tall",
+    "Image": 4305,
+    "File": "Item 63. 5ft tall candle holder.webp",
+    "Width": 940,
+    "Height": 3024
+  },
+  {
+    "Item": 64,
+    "Description": "Living room furniture ",
+    "Artist": "None",
+    "Dimensions": "",
+    "Image": 4309,
+    "File": "Item 64. Living Room Funiture.webp",
+    "Width": 2634,
+    "Height": 1490
+  },
+  {
+    "Item": 65,
+    "Description": "Metal flower stand & vase ",
+    "Artist": "None",
+    "Dimensions": "stand 31\" tall",
+    "Image": 4325,
+    "File": "Item 65. Matal stand and vase.webp",
+    "Width": 780,
+    "Height": 3096
+  }
+]
